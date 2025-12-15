@@ -5,7 +5,7 @@ Thank you for using Nano Cortex Presets Controller!
 ## Contact & Help
 If you have any questions, found a bug, or have a feature request, please feel free to reach out.
 
-**Email:** [your-email]@gmail.com  
+**Email:** daniele.pagano@gmail.com  
 **Bug Reports:** Please click the "Issues" tab above to submit a bug report.
 
 ## FAQ
